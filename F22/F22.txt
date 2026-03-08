@@ -1,0 +1,7 @@
+Izveidot programmu valodā C++, kas apstrādā teksta failu secīgā režīmā.
+Dati no faila jānolasa pa vienai rindiņai. Nedrīkst dublēt visa faila saturu operatīvajā atmiņā.
+
+F22. Dots netukšs teksta fails. Uzrakstīt programmu, kura izvada failā ieejas tekstu,
+izmetot no tā visus liekos tukšumus un tabulācijas (starp vārdiem atstājot tikai vienu tukšumu vai tabulāciju).
+Bez tam visas tukšo simbolu virknes, kas satur kaut vienu jaunās rindiņas simbolu (tātad, tukšie simboli – tukšums, tabulācija, jaunas rindiņas simbols),
+pārveidot par vienu jaunās rindiņas simbolu.
