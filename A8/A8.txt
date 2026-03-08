@@ -1,0 +1,3 @@
+Izveidot programmu gan C++, gan Python.
+
+A8. Dots naturāls skaitlis n. Izdrukāt tos skaitļa n reizinātājus, kuri ir kāda naturāla skaitļa kvadrāti.

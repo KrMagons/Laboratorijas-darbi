@@ -1,0 +1,10 @@
+Izveidot programmu valodā C++, izmantojot objektorientētās programmēšanas līdzekļus
+un strukturējot programmu vismaz trīs failos.
+
+D1. Izveidot klasi "Komplekss skaitlis", kurā tiek glabāti divi skaitļi, kas nosaka kompleksu skaitli.
+Klasei izveidot šādas metodes:
+(1) konstruktors, ar kuru tiek padotas sākotnējās vērtības,
+(2) destruktors, kurš paziņo par objekta likvidēšanu,
+(3) metode "Pieskaitīt" ar diviem parametriem, kas (savam) kompleksajam skaitlim pieskaita
+otru (kas padots ar parametriem) kompleksu skaitli unrezultātu noglabā pie sevis,
+(4) metode "Reizināt" – ar diviem parametriem, kas sareizina kompleksus skaitļus, (5) metode "Drukāt", kas izdrukā komplekso skaitli.

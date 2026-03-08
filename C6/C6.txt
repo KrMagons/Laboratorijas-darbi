@@ -1,0 +1,5 @@
+Izveidot programmu valodā C++, obligāti izmantojot norādītās vai kādas citas funkcijas.
+
+C6. Doti naturāls skaitlis n un veseli skaitļi a(1), a(2), ... a(n).
+Atrast skaitli, kurš dotajā virknē atkārtojas  visvairāk reižu pēc kārtas.
+Cik reizes? Ja tādi skaitļi ir vairāki, tad izdrukāt lielāko.
